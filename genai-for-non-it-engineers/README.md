@@ -44,3 +44,23 @@ understanding how models are trained.
 > This course aims to produce engineers who can **reason correctly**
 > about Generative AI in real engineering contexts.
 
+---
+
+## Usage and License Notice
+
+The material in this repository is intended for **academic, educational, and
+research use**.
+
+You are welcome to:
+- Read and reference the material
+- Share unmodified copies with attribution
+
+You may **not**:
+- Use this material for commercial purposes
+- Modify or redistribute derivative versions
+- Repackage the material as courseware or training products
+
+All content is provided for **conceptual understanding and curriculum framing**.
+
+© Dr. Rakesh P. Tapaskar  
+Licensed under **CC BY-NC-ND 4.0**
